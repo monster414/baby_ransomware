@@ -1,1 +1,1 @@
-Simple example of ransomware that write by python
+Simple example of ransomware that write in python
